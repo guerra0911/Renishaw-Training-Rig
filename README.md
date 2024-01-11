@@ -1,1 +1,1 @@
-# Renishaw-Training-Rig
+# Renishaw Training Rig
