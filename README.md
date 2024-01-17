@@ -21,7 +21,7 @@ The project began with 3D modelling on AutoCAD Inventor. Every external part pur
 ## Wiring and Programming
 Before wiring, diagrams were created on Multisim to represent the M-Codes that each button and switch should resemble. I programmed the PLC myself to make the M-Codes work accordingly. After creating the diagrams, we began wiring everything from the power supply, to ground rails, to every single probe, laser, receiver until everything was wired and working correctly.
 
-![ISO & JOINED SKIP](Photos%20and%20Videos/Wiring%20Diagram%20Pictures/ISO_and_JOINED_SKIP.png)
+![ISO & JOINED SKIP](Photos%20and%20Videos/Wiring%20Diagram%20Pictures/8%20ISO%20AND%20JOINED%20SKIP.png)
 
 ## Reflection
 The successful completion of this project was the highlight of my 4 month internship at Renishaw Canada Ltd., and I could not be happier. The team contributed extensively to this project, and without them it could not be completed. The managers gave me the trust and freedom to customize this how I wanted and truly make it personal, and for that reason it means a lot to me. 
