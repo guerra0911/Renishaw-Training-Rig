@@ -19,14 +19,14 @@ As the lead of the project, I handled communication with every supplier, delegat
 The project began with 3D modelling on AutoCAD Inventor. Every external part purchased from suppliers was 3D modelled to resemble the real thing, accurate to size. This also included 3D models provided by suppliers and Renishaw for their lasers, probes, receivers, etc.
 
 <p align="center">
-  <img src="Photos%20and%20Videos/Wiring%20Diagram%20Pictures/8%20ISO%20AND%20JOINED%20SKIP.png" width="500" alt="ISO & JOINED SKIP">
+  <img src="Photos%20and%20Videos/Final%20Build%20Pictures/Final%20CAD%20Assembly.png" width="500" alt="Final CAD Assembly">
 </p>
 
 ## Wiring and Programming
 Before wiring, diagrams were created on Multisim to represent the M-Codes that each button and switch should resemble. I programmed the PLC myself to make the M-Codes work accordingly. After creating the diagrams, we began wiring everything from the power supply, to ground rails, to every single probe, laser, receiver until everything was wired and working correctly.
 
 <p align="center">
-  <img src="Photos%20and%20Videos/Final%20Build%20Pictures/Final%20CAD%20Assembly.png" width="500" alt="Final CAD Assembly">
+  <img src="Photos%20and%20Videos/Wiring%20Diagram%20Pictures/8%20ISO%20AND%20JOINED%20SKIP.png" width="500" alt="ISO & JOINED SKIP">
 </p>
 
 ## Reflection
